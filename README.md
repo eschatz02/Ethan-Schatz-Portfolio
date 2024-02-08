@@ -1,1 +1,1 @@
-Ethan-Schatz-Portfolio.github.io
+# https://eschatz02.github.io/Ethan-Schatz-Portfolio
