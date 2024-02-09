@@ -29,7 +29,8 @@ nav ul li a {
 }
 
 section {
-    padding: 20px;
+    text-align: center;
+    padding: 20px; 
 }
 
 footer {
