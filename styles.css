@@ -22,8 +22,12 @@ nav ul {
 }
 
 nav ul li {
-    display: inline; /* Changed to inline for horizontal navigation */
+    display: inline-block; /* Changed to inline-block for horizontal navigation */
     margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0; /* Remove margin from last list item */
 }
 
 nav ul li a {
@@ -33,11 +37,12 @@ nav ul li a {
 
 section {
     text-align: center;
-    padding: 0px;
+    padding: 20px; /* Add padding for better spacing */
 }
 
-contact {
-    padding: 0px;
+/* Corrected selector for contact section */
+.contact {
+    padding: 20px; /* Add padding for better spacing */
 }
 
 footer {
