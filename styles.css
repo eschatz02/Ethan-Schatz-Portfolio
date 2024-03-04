@@ -1,15 +1,19 @@
 /* styles.css */
+
+/* Specify font for body text */
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: Lato, sans-serif; /* Change to your preferred body font */
     margin: 0;
     padding: 0;
 }
 
+/* Specify font for title */
 header {
     background-color: #1D6CD4;
     color: #fff;
     text-align: center;
     padding: 20px;
+    font-family: Abril Fatface, serif; /* Change to your preferred title font */
 }
 
 nav ul {
@@ -19,7 +23,7 @@ nav ul {
 }
 
 nav ul li {
-    display: center;
+    display: inline; /* Changed to inline for horizontal navigation */
     margin-right: 20px;
 }
 
@@ -30,7 +34,7 @@ nav ul li a {
 
 section {
     text-align: center;
-    padding: 0px; 
+    padding: 0px;
 }
 
 contact {
