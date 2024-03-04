@@ -1,8 +1,7 @@
 /* styles.css */
 
-/* Specify font for body text */
 body {
-    font-family: Lato, sans-serif; /* Change to your preferred body font */
+    font-family: Lato, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -13,7 +12,7 @@ header {
     color: #fff;
     text-align: center;
     padding: 20px;
-    font-family: Abril Fatface, serif; /* Change to your preferred title font */
+    font-family: Abril Fatface, serif;
 }
 
 nav ul {
