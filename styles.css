@@ -43,8 +43,12 @@ section {
 
 /* Corrected selector for contact section */
 .contact {
-    padding: 20px; /* Add padding for better spacing */
+    padding: 20px;
     text-align: center;
+    font-family: Lato, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #333;
 }
 
 footer {
