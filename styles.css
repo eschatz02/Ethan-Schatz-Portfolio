@@ -46,16 +46,16 @@ section {
 .contact {
     padding: 20px;
     text-align: center;
-    font-family: Lato, sans-serif; /* Specify font for contact section */
-    margin-top: 10px;
-    margin-bottom: 10px;
-    color: #333;
+    font-family: Lato, sans-serif; /* This will ensure it has the same font as the body */
+    font-size: 0.8em; /* This will make the text size smaller */
+    color: #FFF; /* This will change the text color to white for visibility on the footer's background */
 }
 
-/* Footer styles */
-footer {
+/* Footer styles - Modified to include .contact class */
+footer, .contact {
     background-color: #007ACC;
     color: #FFF;
     text-align: center;
     padding: 10px;
 }
+
