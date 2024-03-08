@@ -6,22 +6,12 @@ body {
 }
 
 /* Header styles */
-header1 {
+header {
     background-color: #007ACC;
     color: #FFF;
     text-align: center;
     padding: 20px;
     font-family: Abril Fatface, serif; /* Specify font for title */
-    font-size: 36px;
-}
-
-header2 {
-    background-color: #007ACC;
-    color: #FFF;
-    text-align: center;
-    padding: 20px;
-    font-family: Abril Fatface, serif; /* Specify font for title */
-    font-size: 16px;
 }
 
 /* Navigation styles */
